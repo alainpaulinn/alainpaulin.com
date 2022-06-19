@@ -1,0 +1,23 @@
+{
+  "name": "alainpaulin.com",
+  "version": "1.0.0",
+  "description": "This is the source code powering my portfolio website: alainpaulin.com",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alainpaulinn/alainpaulin.com.git"
+  },
+  "keywords": [
+    "nodejs",
+    "portfolio"
+  ],
+  "author": "Alain Paulin Niyonkuru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alainpaulinn/alainpaulin.com/issues"
+  },
+  "homepage": "https://github.com/alainpaulinn/alainpaulin.com#readme"
+}
